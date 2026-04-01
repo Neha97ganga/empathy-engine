@@ -131,16 +131,3 @@ We use **gTTS (Google Text-to-Speech)**:
 * Implemented caching fixes for smooth user experience
 
 ---
-
-## 🔥 Future Improvements
-
-* Integration with ElevenLabs for ultra-realistic voice
-* SSML-based advanced speech control
-* Multi-language support
-* Emotion-specific voice personas
-
----
-
-## 👨‍💻 Author
-
-Developed by Neha Ganga as part of an AI Voice Interaction Challenge 🚀
